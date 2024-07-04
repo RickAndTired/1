@@ -1,0 +1,12 @@
+<themeCapabilities>
+   
+   <themeName>test</themeName>
+
+   <aspectRatio>1:1</aspectRatio>
+
+   <variant name="1">
+      <label>test</label>
+      <selectable>true</selectable>
+   </variant>
+   
+</themeCapabilities>
