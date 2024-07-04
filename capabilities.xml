@@ -5,7 +5,7 @@
    <aspectRatio>1:1</aspectRatio>
 
    <variant name="1">
-      <label>test</label>
+      <label>1</label>
       <selectable>true</selectable>
    </variant>
    
