@@ -20,7 +20,7 @@ CC-BY-NC-SA
       <maxItemCount>1</maxItemCount>
       <textHorizontalScrolling>true</textHorizontalScrolling>
       <textHorizontalScrollSpeed>0.1</textHorizontalScrollSpeed>
-      <textHorizontalScrollDelay>0</textHorizontalScrollDelay>
+      <textHorizontalScrollDelay>0.25</textHorizontalScrollDelay>
       <fontSize>0.25</fontSize>
       <letterCase>uppercase</letterCase>
       <lineSpacing>3</lineSpacing>
