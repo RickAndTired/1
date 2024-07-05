@@ -22,7 +22,7 @@ CC-BY-NC-SA
       <fontSize>0.25</fontSize>
       <letterCase>uppercase</letterCase>
       <lineSpacing>3</lineSpacing>
-      <fontPath>./UbuntuMono-Bold-wide2.ttf</fontPath>
+      <fontPath>./UbuntuMono-Bold-spaced2.ttf</fontPath>
     </carousel>
     <helpsystem name="help">
       <origin>1 1</origin>
