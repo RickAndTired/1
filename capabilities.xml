@@ -1,12 +1,8 @@
 <themeCapabilities>
-   
    <themeName>1</themeName>
-
    <aspectRatio>1:1</aspectRatio>
-
    <variant name="1">
       <label>1</label>
       <selectable>true</selectable>
    </variant>
-   
 </themeCapabilities>
