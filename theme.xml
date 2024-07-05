@@ -1,11 +1,11 @@
 <!--
-ES-DE Theme 1 letter
+ES-DE Theme 1
 by Rick
 CC-BY-NC-SA
 -->
 <theme>
   <view name="system,gamelist">
-    <carousel name="system_c">
+    <carousel name="c">
       <pos>0.5 0.5</pos>
       <origin>0.5 0.5</origin>
       <size>1 1</size>
