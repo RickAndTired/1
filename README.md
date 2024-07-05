@@ -1,4 +1,4 @@
-ES-DE Theme 1 letter
+ES-DE Theme 1
 
 by Rick
 
