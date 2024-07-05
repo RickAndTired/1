@@ -3,9 +3,7 @@ ES-DE Theme 1 letter
 by Rick
 CC-BY-NC-SA
 -->
-
 <theme>
-
   <view name="system,gamelist">
     <carousel name="system_c">
       <pos>0.5 0.5</pos>
@@ -27,21 +25,12 @@ CC-BY-NC-SA
       <fontPath>./UbuntuMono-Bold-spaced.ttf</fontPath>
     </carousel>
     <helpsystem name="help">
-      <textColor>222222</textColor>
-      <iconColor>222222</iconColor>
-    </helpsystem>  
+      <origin>1 1</origin>
+      <pos>0 0</pos>
+    </helpsystem>
   </view>
-  
-  <view name="system">
-  </view>
-  
-  <view name="gamelist">
-  </view>
-
   <aspectRatio name="1:1">
   </aspectRatio>
-
   <variant name="1">
   </variant>
-
 </theme>
