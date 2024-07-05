@@ -22,15 +22,11 @@ CC-BY-NC-SA
       <fontSize>0.25</fontSize>
       <letterCase>uppercase</letterCase>
       <lineSpacing>3</lineSpacing>
-      <fontPath>./UbuntuMono-Bold-spaced.ttf</fontPath>
+      <fontPath>./UbuntuMono-Bold-wide2.ttf</fontPath>
     </carousel>
     <helpsystem name="help">
       <origin>1 1</origin>
       <pos>0 0</pos>
-    </helpsystem>
+    </helpsystem>  
   </view>
-  <aspectRatio name="1:1">
-  </aspectRatio>
-  <variant name="1">
-  </variant>
 </theme>
